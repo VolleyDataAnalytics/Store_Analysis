@@ -11,3 +11,12 @@ Virnda store wants to create an annual sales report for 2022.So that,virnda can 
 - Relation between age and gender based on number of orders ?
 - Which channel is contributing to maximum sales ?
 - Highest selling category ?,etc.
+
+**SAMPLE INSIGHTS**
+- women are more likely to buy compared to men (~65%)
+- Maharashtra,Karnataka and Uttar Pradesh are the top 3 states(~35%)
+- Adult age (30-49 yrs) is max contributing (~50%)
+- Amazon,Flipkart and Myntra channels are max contributing (~80%)
+
+**Final Conclusion to improve vrinda store sales:**
+- Target women customers of age group (30-49 yrs) living in Maharastra,Karnataka and uttar pradesh by showing ads/offers/coupons avaliable on Amazon,Flipkart and Myntra
